@@ -11,7 +11,7 @@ A potential application of this set would be an analytics application that gener
 
 ### Networks, Crowds, and Markets: Reasoning About a Highly Connected World
 An interesting book from the [Free Data Science Book repository](https://github.com/academic/awesome-datascience) can be found 
-[here](http://www.cs.cornell.edu/home/kleinber/networks-book/).  The book is titled *Networks, Crowds, and Markets: Reasoning About a Highly Connected World*.  It's written by David Easley and Jon Kleinberg and published by Cambridge University Press. 
+[here](http://www.cs.cornell.edu/home/kleinber/networks-book/).  It's written by David Easley and Jon Kleinberg and published by Cambridge University Press. 
 
 The book describes many different human networks and human interactions within networks.  Topics include epidemics, market failures, and voter turnouts.  It introduces concepts from the fields of economics, sociology, computer science, and mathematics as ways to understand these networks and the large amounts of data that they produce.
 
