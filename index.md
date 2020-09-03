@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Timand32
 
-You can use the [editor on GitHub](https://github.com/timand32/timand32.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Google's Covid-19 Data Pipeline
+An interesting dataset from the [Awesome Data Science repository](https://github.com/academic/awesome-datascience) can be found 
+[here](https://github.com/google-research/open-covid-19-data).  It's a pipeline that collects several international sources of data on Covid-19 and aggregates it into individual sets.  
+The pipeline generates an up-to-date dataset whenever you click one of the three links they provide on the repository.
+A potential application for this pipeline would be an application that presents a global heatmap of confirmed Covid-19 cases, hospitalizations, deaths, and other figures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Networks, Crowds, and Markets: Reasoning About a Highly Connected World
+An interesting book from the [Free Data Science Book repository](https://github.com/academic/awesome-datascience) can be found 
+[here](http://www.cs.cornell.edu/home/kleinber/networks-book/).
+The book is titled *Networks, Crowds, and Markets: Reasoning About a Highly Connected World*.  It's written by David Easley and Jon Kleinberg and published by Cambridge University Press. 
 
-### Markdown
+The book appears to investigate several different kinds of large-scale human interactions, such from epidemics to voting turnouts to market decisions.
+It then labels and discusses several interesting phenomena that emerges out of these interactions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timand32/timand32.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am interested in its multidisciplinary approach between economics, sociology, computer science and mathematics.
+Since it treats many topics very briefly, I think it could introduce me to a couple networks and concepts that I would like to explore further.
