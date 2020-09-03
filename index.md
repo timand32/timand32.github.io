@@ -3,7 +3,7 @@
 ### Google's Covid-19 Data Pipeline
 An interesting dataset from the [Awesome Data Science repository](https://github.com/academic/awesome-datascience) can be found 
 [here](https://github.com/google-research/open-covid-19-data).  It's a pipeline maintained by a Google research team that collects several international sources of data on Covid-19 and aggregates it into individual sets.  
-The pipeline generates an up-to-date dataset whenever you click one of the three links they provide on the repository.
+The pipeline generates an up-to-date dataset whenever you click one of the three links they provide on the repository.  A definite value of the pipeline is that it aggregates many local sets with different formats into a single, comparable format.
 
 A potential application for this pipeline would be an application that presents a global heatmap of confirmed Covid-19 cases, hospitalizations, deaths, and other figures.
 
