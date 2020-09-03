@@ -2,14 +2,17 @@
 
 ### Open COVID-19 Data
 An interesting dataset from the [Awesome Data Science repository](https://github.com/academic/awesome-datascience) can be found 
-[here](https://github.com/google-research/open-covid-19-data).  Open COVID-19 Data a pipeline maintained by a Google research team that collects several international sources of data on Covid-19 and aggregates it into a single .csv file.  The pipeline generates an up-to-date dataset whenever you access a given url.
+[here](https://github.com/google-research/open-covid-19-data).
 
-A potential application for this pipeline would be an application that presents a global heatmap of confirmed Covid-19 cases, hospitalizations, deaths, and other features of the pandemic.  One valuable aspect of this pipeline is that it aggregates many local sets with different formats into a single, comparable format.  Since the repository provides the pipeline's own source code, this project could also be used to inform future aggregates of Covid 19-data
+The project is a pipeline instead of a static dataset.  It aggregates different Covid-19 reports together.  Since each source has their own data formats and geographic focus, the pipeline has to clean and organize data behind the scenes.  The pipeline collects these sources together, and outputs it as an individual .csv file.  The pipeline is generated regularly, meaning that every time you access the URL to the .csv, it should be updated to include the most recent reports available from its sources.  Since the data is current, well-structured, and in one place, researchers can us it to analyze features of this pandemic at a global scope.  
+
+A potential application of this set would be an analytics application that generates a global heatmap of different COVID-19 features.  Since the dataset includes entries from the beginning of the outbreak, the application could animate the heatmap to show how the data has been changing over the last few months.  The project is valuable since it compiles data into a compact and usable format.  And since the source code is made public, it can also serve as a reference point for other projects that aggregate several data sources into a single set.
+
 
 ### Networks, Crowds, and Markets: Reasoning About a Highly Connected World
 An interesting book from the [Free Data Science Book repository](https://github.com/academic/awesome-datascience) can be found 
 [here](http://www.cs.cornell.edu/home/kleinber/networks-book/).  The book is titled *Networks, Crowds, and Markets: Reasoning About a Highly Connected World*.  It's written by David Easley and Jon Kleinberg and published by Cambridge University Press. 
 
-The book appears to investigate several different kinds of large-scale human interactions, such from epidemics to voting turnouts to market decisions.  It then labels and discusses several interesting phenomena that emerges out of these interactions.
+The book describes many different human networks and human interactions within networks.  Topics include epidemics, market failures, and voter turnouts.  It introduces concepts from the fields of economics, sociology, computer science, and mathematics as ways to understand these networks and the large amounts of data that they produce.
 
-I am interested in its multidisciplinary approach between economics, sociology, computer science and mathematics.  Since it covers so many different topics, I think it could introduce me to a few interesting topics that I could explore further.
+I like that this book combines the approaches of several disciplines together.  I also like that it covers a wide variety of topics and introduces many different concepts.  The book’s variety is great for suggesting topics that I could possibly research further.
